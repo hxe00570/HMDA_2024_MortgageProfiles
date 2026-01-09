@@ -47,8 +47,4 @@ rate_spread vs. debt_to_income_ratio
 loan_to_value_ratio vs. debt_to_income_ratio
 loan_amount vs. loan_to_value_ratio
 
-## Notebooks in this Series
-Artifcat No. 1: HMDA Gender and Geography
-Artifcat No. 2: HMDA Loan Characteristics by Race & Gender
-Artifact No. 3: Tapping APIs for Multi-Year Analysis
 
