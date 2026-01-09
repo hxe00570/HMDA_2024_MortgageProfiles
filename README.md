@@ -11,12 +11,16 @@ To run this notebook, a High-Ram Python GPU instance is recommended, as some com
 Ensure you have Python installed. Then, install the necessary dependencies using pip:
 
 pip install pandas numpy seaborn matplotlib statsmodels
+
 Google Drive Setup
 The notebook expects the HMDA 2024 data file (year_2024.csv) to be mounted from Google Drive. Ensure your Google Drive is mounted to /content/drive and the file is located at '/content/drive/MyDrive/CIS-2330_Database_Fundamentals/year_2024.csv' (or adjust the path in the notebook accordingly).
 
 ## Data
-The dataset used is the 2024 Home Mortgage Disclosure Act (HMDA) loan application data. The primary file is year_2024.csv. 
-Key columns analyzed include:
+The dataset used is the 2024 Home Mortgage Disclosure Act (HMDA) loan application data. 
+
+The primary file is year_2024.csv. 
+
+### Key columns analyzed include:
 derived_sex
 derived_ethnicity
 derived_race
