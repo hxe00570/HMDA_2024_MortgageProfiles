@@ -1,4 +1,4 @@
-# Reproduceable Research: HMDA Loan Characteristics by Race & Gender
+# HMDA Loan Characteristics by Race & Gender
 This repository contains exploratory analysis of the Home Mortgage Disclosure Act (HMDA) loan application data for 2024. The analysis focuses on visualizing rate_spread, debt_to_income_ratio, loan_amount, and loan_to_value_ratio broken down by derived_race and derived_sex.
 
 ## Overview
