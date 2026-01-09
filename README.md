@@ -1,15 +1,6 @@
 # Reproduceable Research: HMDA Loan Characteristics by Race & Gender
 This repository contains exploratory analysis of the Home Mortgage Disclosure Act (HMDA) loan application data for 2024. The analysis focuses on visualizing rate_spread, debt_to_income_ratio, loan_amount, and loan_to_value_ratio broken down by derived_race and derived_sex.
 
-# Table of Contents
-Overview
-Setup
-Data
-Analysis Highlights
-Notebooks in this Series
-Resources
-Author
-
 ## Overview
 This notebook processes over 12.2 million loan applicant records from the 2024 HMDA dataset. It specifically filters for single applicants who applied for a primary mortgage on a single-family home (1-4 units) and whose data is complete for the key attributes under investigation. The analysis includes data cleaning to remove outliers and visualize the relationships between loan characteristics and demographic factors.
 
